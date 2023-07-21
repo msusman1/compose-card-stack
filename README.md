@@ -4,7 +4,8 @@
 
 ![Platform](http://img.shields.io/badge/platform-android-blue.svg?style=flat)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![API](https://img.shields.io/badge/API-24%2B-blue.svg?style=flat)
+![API](https://img.shields.io/badge/API-23%2B-blue.svg?style=flat)
+[![](https://jitpack.io/v/msusman1/compose-card-stack.svg)](https://jitpack.io/#msusman1/compose-card-stack)
 
 # Overview
 Timber like card stack library for Compose, motivation from CardStackView for android view(imperative UI).
@@ -14,13 +15,32 @@ Timber like card stack library for Compose, motivation from CardStackView for an
 
 # Installation
 
+To get a Git project into your build:
+
+Step 1. Add the JitPack repository to your build file
+
+Add it in your root build.gradle at the end of repositories:
+
+```groovy
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+Step 2. Add the dependency
+
 ```groovy
 dependencies { 
-    implementation "com.github.msusman1:compose-cardstack:1.0.0"
+    implementation "com.github.msusman1:compose-card-stack:1.0.1"
 }
 ```
 
 #Setup
+
+
 
 ```kotlin
     CardStack(
