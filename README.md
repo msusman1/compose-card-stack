@@ -1,6 +1,3 @@
-<p align="center">  
-🗡️ Timber like swipeable card stack library using Jetpack Compose
-</p> 
 ![Logo](https://github.com/msusman1/compose-card-stack/blob/master/images/home_banner.png)
 
 # Compose Card Stack
@@ -10,12 +7,9 @@
 ![API](https://img.shields.io/badge/API-23%2B-blue.svg?style=flat)
 [![](https://jitpack.io/v/msusman1/compose-card-stack.svg)](https://jitpack.io/#msusman1/compose-card-stack)
 
-
 # Overview
-<p align="center">  
-🗡️ Timber like card stack library for Compose, motivation from CardStackView for android view(imperative UI).
+Timber like card stack library for Compose, motivation from CardStackView for android view(imperative UI).
 [CardStackView](https://github.com/yuyakaido/CardStackView)
-</p>
 
 ![Overview](https://github.com/msusman1/compose-card-stack/blob/master/images/overview.gif)
 
