@@ -118,7 +118,7 @@ Set swipe method either manual(through code) or automatic(through swipe) [Defaul
 # License
 
 ```
-Copyright 2023 yuyakaido
+Copyright 2023 msusman1
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
